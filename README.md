@@ -22,18 +22,14 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 
 
 - 💬 Ask me about anything and everything !! 
-- 👨🏻‍💻 View my **Website** here => https://portfolio.abhisheksrivastava.me/
-- 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/abhishek-srivastava-49482a190/ 
-- ✍ View my **Blogs** here => https://medium.com/@abhishek2x/ 
-- 📫 **Reach** me here => abhisheksrivastavabbn@gmail.com 
+- 👨🏻‍💻 View my **Website** here => 
+- 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/akash-agarwal21/
+- 📫 **Reach** me here => akashbittu96@gmail.com 
 
  <p>
-  <a href="https://www.linkedin.com/in/abhishek-srivastava-49482a190/">
-    <img src="https://img.shields.io/badge/Abhishek-Srivastava-386938188?style=flat&logo=linkedin">
+  <a href="https://www.linkedin.com/in/akash-agarwal21">
+    <img src="https://img.shields.io/badge/Akash-Agarwal-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
- <a href="https://medium.com/@abhishek2x/">
-    <img src="https://img.shields.io/badge/abhishek2x-30302f?style=flat&logo=medium">
-  </a>
 </p>
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akash-agarwal96&show_icons=true&hide_border=True)
