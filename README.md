@@ -12,7 +12,7 @@
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => In Progress
 - 📫 **Reach** me here => akashbittu96@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1qvBluf7ajdXxql7ggSZaZJojw1v566EG/view?usp=sharing)
+- 📝 **My Resume** => [Resume](https://drive.google.com/file/d/1qvBluf7ajdXxql7ggSZaZJojw1v566EG/view?usp=sharing)
 
  <p>
   <a href="https://www.linkedin.com/in/akash-agarwal21">
